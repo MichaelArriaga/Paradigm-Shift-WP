@@ -17,3 +17,5 @@ View live sample [here](http://miikea.sgedu.site)
 5. Enjoy!
 
 **Ported to Wordpress by Mike Arriaga [@ux_Michael](https://twitter.com/ux_Michael)**
+
+LICENSED UNDER CCA 3.0
