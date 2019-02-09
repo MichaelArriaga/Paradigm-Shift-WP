@@ -14,7 +14,8 @@ View live sample [here](http://miikea.sgedu.site)
 2. Open your wordpress installation and navigate to **Appearance > Themes** then **Add New > Upload Theme**
 3. Then choose the `Paradigm-Shift-WP-master.zip` and wait for the installer to complete
 4. Go back to themes and click on Paradigm Shift and then click **Activate**
-5. Enjoy!
+5. You can customize each of the site sections by going to **Appearance > Customize**
+6. Enjoy!
 
 **Ported to Wordpress by Mike Arriaga [@ux_Michael](https://twitter.com/ux_Michael)**
 
